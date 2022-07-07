@@ -3,3 +3,6 @@ Micheal here
 been able to push this file to github repository called
 
 IndustrialCourtInternProject
+
+Alrights this contented has been pushed and now ive added extra content
+like this so that i can do a git pull from the repository

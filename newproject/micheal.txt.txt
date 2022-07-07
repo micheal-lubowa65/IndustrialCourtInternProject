@@ -1,8 +1,32 @@
+PHASE 1 - CREATED ON LOCAL MACHINE TO GIT
 Hello,
 Micheal here
 been able to push this file to github repository called
 
 IndustrialCourtInternProject
 
+PHASE 2
+USED GIT TO EDIT AND ADD THE CONTENT BELOW
 Alrights this contented has been pushed and now ive added extra content
 like this so that i can do a git pull from the repository
+
+PHASE 3
+
+i have now done a git pull request 
+and in here i state all the tasks i have done
+
+so uhm,
+i have opened a git account
+created a repository on git
+
+then using the local machine
+i created a folder and out a file
+then used git bash 
+to initialize git in the folder
+and there after did a git push of the folder from my local machine to 
+the remote git repository
+
+now i then went ahead to use the git bash to do a git pull from the repository a
+and added all this content in phase 3
+
+thats all
